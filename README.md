@@ -32,12 +32,13 @@
 
 ##### JiaFu-Peng
 
-+ https://codeforces.com/contest/1811/problem/G2
-+ [P8776 [蓝桥杯 2022 省 A\] 最长不下降子序列
-+ AcWing 734. 能量石
-+ AcWing 280. 陪审团
-+ AcWing 282. 石子合并
-+ AcWing 283. 多边形
++ 线性dp专题
+  + https://codeforces.com/contest/1811/problem/G2
+  + [P8776 [蓝桥杯 2022 省 A\] 最长不下降子序列
+  + AcWing 734. 能量石
+  + AcWing 280. 陪审团
+  + AcWing 282. 石子合并
+  + AcWing 283. 多边形
 + 24湖南round6 A B（看题解修改了自己代码）C（看题解补的）
 
 
