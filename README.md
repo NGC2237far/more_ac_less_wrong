@@ -25,6 +25,21 @@
 - [x] 写了下群友给的题目
 
 
+
+#### 4.22-4.28
+
+##### JiaFu-Peng
+
++ https://codeforces.com/contest/1811/problem/G2
++ [P8776 [蓝桥杯 2022 省 A\] 最长不下降子序列
++ AcWing 734. 能量石
++ AcWing 280. 陪审团
++ AcWing 282. 石子合并
++ AcWing 283. 多边形
+
+
+
+
 ##### 本周题单——博弈论
 link:https://codeforces.com/gym/519391
 rating在1200-1500
