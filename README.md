@@ -13,6 +13,7 @@
 - [X] 华南理工大学校赛
 
   + A, E, I
+    
 - [X] abc349
 
   + A-E, (E, 博弈论妙题)
@@ -20,6 +21,10 @@
 - [x] 湖南多校
 
   + BCDH
+    
+- [x] abc351
+      
+  + A-D(F在补)
 
 
 ##### JiaFu-Peng
@@ -45,5 +50,7 @@
 
 
 ##### 本周题单——博弈论
-link:https://codeforces.com/gym/519391
-rating在1200-1500
+link:https://vjudge.net/contest/624995
+##### 学习资料
+博弈论：https://blog.csdn.net/Qiuker_jl/article/details/111306596
+线段树：https://codeforces.com/blog/entry/18051
