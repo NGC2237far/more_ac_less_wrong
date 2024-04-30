@@ -1,5 +1,7 @@
 + 完成博弈论专题学习 https://vjudge.net/contest/624995
 
+  + [学习资料](https://blog.csdn.net/Qiuker_jl/article/details/111306596)
+
 + dp专题
 
   > [总体题单](https://blog.csdn.net/qq_37774171/article/details/81188690)
